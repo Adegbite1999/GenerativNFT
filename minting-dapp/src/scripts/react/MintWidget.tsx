@@ -55,7 +55,7 @@ export default class MintWidget extends React.Component<Props, State> {
 
   private async mint(): Promise<void> {
     if (!this.props.isPaused) {
-      await this.props.mintTokens(this.state.mintAmount);
+    await this.props.mintTokens(this.state.mintAmount);
       window.setTimeout( function() {
         window.location.reload();
       }, 30000);
