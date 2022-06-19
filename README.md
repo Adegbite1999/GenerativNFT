@@ -1,14 +1,20 @@
-# NFT ERC721 Collection
+The global legal marijuana market size was valued at USD 9.1 billion in 2020 and is expected to expand at a compound annual growth rate (CAGR) of 26.7% from 2021 to 2028. One of the major factors fueling the market growth is the expanding demand for legal marijuana owing to the growing number of legal cannabis countries.
 
-An all-in-one solution for `ERC721` collections. Build, test and deploy your smart contract, together with a totally
-integrated DAPP within a simple yet powerful workspace.
+Owing to the recent legalizations in different countries, the use of medical marijuana for various aliments is gaining momentum worldwide. Patients suffering from chronic illnesses, such as Parkinson's, cancer, Alzheimer's, and many neurological disorders, are administered medical marijuana. The demand for cannabis oil is increasing rapidly, especially among countries with legalized medical marijuana. Recent novel food ruling in Europe will further strengthen the growth of CBD isolates in the coming years. Moreover, the children consuming cannabis are being prescribed with oil only as it has shown tremendous benefits for the treatment of disorders, like epilepsy.
 
-## Main features
-- extremely high gas efficiency (users are going to pay lower gas fees compared to traditional collections)
-- whitelist support with customizable list size (using a Merkle Tree for verification)
-- automated contract verification through block explorers (e.g. Etherscan)
-- simple CLI commands that guide you through all the sale steps (whitelist, pre-sale, public sale)
-- built as a Hardhat project with TypeScript support for a better development experience
-- includes a fully-featured minting DAPP (React + TypeScript + SCSS + Webpack)
-- full support for contract interaction through block explorers (e.g. Etherscan), for all the users that do not trust custom DAPPs (including the `whitelistMint(...)` function)
-- customizable minting DAPP (from basic branding to complete customization
+What actually is medical marijuana?
+Medical marijuana uses the marijuana plant or chemicals in it to treat diseases or conditions. It's basically the same product as recreational marijuana, but it's taken for medical purposes.
+
+Limited research suggests cannabinoids might: Reduce anxiety Reduce inflammation and relieve pain Control nausea and vomiting caused by cancer chemotherapy Kill cancer cells and slow tumor growth Relax tight muscles in people with MS Stimulate appetite and improve weight gain in people with cancer and AIDS.
+
+How does it help?
+Cannabinoids -- the active chemicals in medical marijuana -- are similar to chemicals the body makes that are involved in appetite, memory, movement, and pain.
+
+Medcan DAO
+Medcan DAO is a platform with the aim of championing research on how marijuana can be used to save lives and educating people on the benefits of marijuana, and how it can be properly administered to cure disease. To access this organisation users will have to be holders of the Crackhead NFT.
+
+When users stake the crackhead NFT they receive the governance token of MedcanDao which gives them voting rights in the ado and gives them access to be active contributors in the space.
+
+And this gives investors access to workshops, research and funding into the space
+
+Every participant in the DAO get access to health professionals which help them on consultations and help them in leading healthy lives while expanding on research in human health.
